@@ -18,4 +18,4 @@
 
 [twitter]: https://x.com/TheeBanMan
 [instagram]: https://www.instagram.com/thesuperbanman
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/angel-blaze-04141b220
